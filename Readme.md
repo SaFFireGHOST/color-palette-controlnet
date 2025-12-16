@@ -1,8 +1,7 @@
 
 #  Color Palette–Conditioned Image Generation using ControlNet
 
-This repository contains the complete codebase for the project **“Applying ControlNet for Color Palette–Conditioned Art Generation”**.
-The project explores explicit and controllable color composition in diffusion-based image generation using a novel **palette-based conditioning signal** with ControlNet.
+This project explores explicit and controllable color composition in diffusion-based image generation using a novel **color-palette based conditioning signal** with ControlNet.
 
 ---
 
@@ -19,7 +18,7 @@ The project explores explicit and controllable color composition in diffusion-ba
 
 ---
 
-## 🧩 Project Components
+## Project Components
 
 ### 1. Dataset Generation and Preprocessing
 
